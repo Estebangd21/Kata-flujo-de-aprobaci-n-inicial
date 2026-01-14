@@ -1,0 +1,12 @@
+{
+  "name": "approval-frontend",
+  "private": true,
+  "dependencies": {
+    "@angular/core": "17.x",
+    "@angular/common": "17.x",
+    "@angular/forms": "17.x",
+    "@angular/platform-browser": "17.x",
+    "@angular/common/http": "17.x",
+    "rxjs": "7.x"
+  }
+}
